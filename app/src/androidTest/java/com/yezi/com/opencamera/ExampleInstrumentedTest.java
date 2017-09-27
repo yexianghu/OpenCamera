@@ -1,4 +1,4 @@
-package camera.yezi.com.opencamera;
+package com.yezi.com.opencamera;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

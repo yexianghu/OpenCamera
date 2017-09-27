@@ -1,4 +1,4 @@
-package camera.yezi.com.opencamera;
+package com.yezi.opencamera;
 
 import org.junit.Test;
 
